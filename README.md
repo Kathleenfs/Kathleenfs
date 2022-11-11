@@ -1,4 +1,4 @@
-## Olá, Eu sou Kathleen Ferreira! Apaixonada por tecnologia.
+## Olá, Eu sou Kathleen Ferreira.
 
 <div align="center">
   <a href="https://github.com/Kathleenfs">
