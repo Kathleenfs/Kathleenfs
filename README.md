@@ -70,7 +70,15 @@
  - 🐾 *Tenho sete gatos* e sou oficialmente uma "cat developer". Eles são meus gerentes de QA – testam minha paciência e minhas habilidades de multitarefa todo dia.
 - 💻 Minha primeira linguagem de programação foi *Java*, e foi amor à primeira vista.  ☕
 
+ ##
+ ## 📫 Contato
+ 
+<div> 
+  <a href = "mailto:kathynik07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kathleen-ferreira-2b13441a5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.hackerrank.com/kathynik07" target="_blank"><img src ="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white target="_blank"></a>
 
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="kath-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="kath-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -98,14 +106,4 @@
         
 </div>
 
- ##
- ## 📫 Contato
- 
-<div> 
-  <a href = "mailto:kathynik07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kathleen-ferreira-2b13441a5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.hackerrank.com/kathynik07" target="_blank"><img src ="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white target="_blank"></a>
-  
-     
-![Obrigado por visitar meu perfil!](https://via.placeholder.com/1200x200.png?text=Obrigado+por+visitar+meu+perfil!)
-</div>
+
