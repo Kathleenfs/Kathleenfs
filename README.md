@@ -6,56 +6,60 @@
  Aqui você encontra um pouquinho do meu universo como desenvolvedora de software, onde cada projeto reflete minha paixão por aprender, criar e resolver problemas. 🚀  
 
 ---
-
 <table>
-<tr >
-<td width="250px">
-  
-   ![gato](https://github.com/user-attachments/assets/80b0b30c-eafb-4621-85f7-096f6f5bc45c)
-  
-### 🛠 *Sobre mim*  
-- 🎓 *Engenheira de Software*  
-- 🎯 Apaixonada por criar soluções que impactam!  
-- 💡 Sempre em busca de aprendizado e inovação.  
-### *📚 Conhecimentos Técnicos:*  
-- *Backend:* Java (Spring Boot), JavaScript, Python  
-- *Frontend:* React, HTML, CSS  
-- *Banco de Dados:* PostgreSQL, MySQL  
-- *Ferramentas:* Git, Swagger, JPA/Hibernate  
-- *Metodologias:* Scrum, Kanban  
-
-</td>
-<td width="250px">  
-  
-### 🌟 *Soft Skills:*  
--  💡 *Aprendizagem Rápida*  
-- 🤝 *Trabalho em Equipe*  
-- 🎨 *Criatividade*  
-- 🌍 *Projetos Multidisciplinares*  
-- 🧠 *Resolução de Problemas* 
-- 🔄 *Flexibilidade*
-- 🎯 *Foco em Resultados*
-- 🧩 *Pensamento Crítico*
-- 🌟 *Liderança*
-- 🎓 *Capacidade de Aprender Continuamente*
-- 🌿 *Empatia*
-- 🔍 *Atenção aos Detalhes*
--  🚀 *Proatividade*
+ <tr>
+   <td width="33%" valign="top">
 
 
-</td>
-<td width="250px">
-
-## 📜 Certificações Digitais
-- **watsonx.ai Sales Foundation**
-- **Oracle Cloud Infrastructure 2023 Certified AI Foundations Associate**
-- **IBM watsonx Essentials** 
-- **IBM Certified Technical Advocate - Cloud v4** 
-- **Certificado Profissional de Análise de Dados do Google** 
-- **Scrum Foundation Professional Certification - SFPC™**   
-</td>
-</tr>
+ ![gato](https://github.com/user-attachments/assets/80b0b30c-eafb-4621-85f7-096f6f5bc45c)
+     
+  <h2>🛠 Sobre mim</h2>
+      <ul>
+        <li>🎓 Engenheira de Software</li>
+        <li>🎯 Apaixonada por criar soluções que impactam!</li>
+        <li>💡 Sempre em busca de aprendizado e inovação.</li>
+      </ul>
+      <h2>📚 Conhecimentos Técnicos:</h2>
+      <ul>
+        <li><b>Backend:</b> Java (Spring Boot), JavaScript, Python</li>
+        <li><b>Frontend:</b> React, HTML, CSS</li>
+        <li><b>Banco de Dados:</b> PostgreSQL, MySQL</li>
+        <li><b>Ferramentas:</b> Git, Swagger, JPA/Hibernate</li>
+        <li><b>Metodologias:</b> Scrum, Kanban</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h2>🌟 Soft Skills</h2>
+      <ul>
+        <li>💡 Aprendizagem Rápida</li>
+        <li>🤝 Trabalho em Equipe</li>
+        <li>🎨 Criatividade</li>
+        <li>🌍 Projetos Multidisciplinares</li>
+        <li>🧠 Resolução de Problemas</li>
+        <li>🔄 Flexibilidade</li>
+        <li>🎯 Foco em Resultados</li>
+        <li>🧩 Pensamento Crítico</li>
+        <li>🌟 Liderança</li>
+        <li>🎓 Capacidade de Aprender Continuamente</li>
+        <li>🌿 Empatia</li>
+        <li>🔍 Atenção aos Detalhes</li>
+        <li>🚀 Proatividade</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h2>📜 Certificações Digitais</h2>
+      <ul>
+        <li><b>watsonx.ai Sales Foundation</b></li>
+        <li><b>Oracle Cloud Infrastructure 2023 Certified AI Foundations Associate</b></li>
+        <li><b>IBM watsonx Essentials</b></li>
+        <li><b>IBM Certified Technical Advocate - Cloud v4</b></li>
+        <li><b>Certificado Profissional de Análise de Dados do Google</b></li>
+        <li><b>Scrum Foundation Professional Certification - SFPC™</b></li>
+      </ul>
+    </td>
+  </tr>
 </table>
+
 
 ---
 
