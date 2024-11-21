@@ -1,21 +1,21 @@
 
 ![Bem-vindo ao meu GitHub!](https://via.placeholder.com/1200x300.png?text=Bem-vindo+ao+meu+GitHub!)
 
-# 👩‍💻 Kathleen Ferreira  
+# Kathleen Ferreira  
 
-*Bem-vindo!* Aqui você encontra um pouquinho do meu universo como desenvolvedora de software, onde cada projeto reflete minha paixão por aprender, criar e resolver problemas. 🚀  
+ Aqui você encontra um pouquinho do meu universo como desenvolvedora de software, onde cada projeto reflete minha paixão por aprender, criar e resolver problemas. 🚀  
 
 ---
 
 <table>
-<tr>
-<td>
+<tr >
+<td width="250px">
+  <img src="https://via.placeholder.com/250x250.png?text=Minha+Imagem" alt="Minha imagem" style="border-radius: 0%;">  
   
 ### 🛠 *Sobre mim*  
 - 🎓 *Engenheira de Software*  
 - 🎯 Apaixonada por criar soluções que impactam!  
 - 💡 Sempre em busca de aprendizado e inovação.  
-
 ### *📚 Conhecimentos Técnicos:*  
 - *Backend:* Java (Spring Boot), JavaScript, Python  
 - *Frontend:* React, HTML, CSS  
@@ -24,17 +24,34 @@
 - *Metodologias:* Scrum, Kanban  
 
 </td>
-<td align="center" width="400px">
+<td width="250px">  
   
-<img src="https://via.placeholder.com/250x250.png?text=Minha+Imagem" alt="Minha imagem" style="border-radius: 0%;">  
-
 ### 🌟 *Soft Skills:*  
-- 💡 *Aprendizagem Rápida*  
+-  💡 *Aprendizagem Rápida*  
 - 🤝 *Trabalho em Equipe*  
 - 🎨 *Criatividade*  
 - 🌍 *Projetos Multidisciplinares*  
-- 🧠 *Resolução de Problemas*  
+- 🧠 *Resolução de Problemas* 
+- 🔄 *Flexibilidade*
+- 🎯 *Foco em Resultados*
+- 🧩 *Pensamento Crítico*
+- 🌟 *Liderança*
+- 🎓 *Capacidade de Aprender Continuamente*
+- 🌿 *Empatia*
+- 🔍 *Atenção aos Detalhes*
+-  🚀 *Proatividade*
 
+
+</td>
+<td width="250px">
+
+## 📜 Certificações Digitais
+- **watsonx.ai Sales Foundation**
+- **Oracle Cloud Infrastructure 2023 Certified AI Foundations Associate**
+- **IBM watsonx Essentials** 
+- **IBM Certified Technical Advocate - Cloud v4** 
+- **Certificado Profissional de Análise de Dados do Google** 
+- **Scrum Foundation Professional Certification - SFPC™**   
 </td>
 </tr>
 </table>
@@ -45,20 +62,6 @@
  - 🐾 *Tenho sete gatos* e sou oficialmente uma "cat developer". Eles são meus gerentes de QA – testam minha paciência e minhas habilidades de multitarefa todo dia. 
   
 - 💻 Minha primeira linguagem de programação foi *Java*, e foi amor à primeira vista.  ☕
-
-
-
-
-## 📜 Certificações Digitais
-- **watsonx.ai Sales Foundation**
-- **Oracle Cloud Infrastructure 2023 Certified AI Foundations Associate**
-- **IBM watsonx Essentials** 
-- **IBM Garage Foundation** 
-- **Retail Industry Jumpstart** 
-- **IBM Certified Technical Advocate - Cloud v4** 
-- **Certificado Profissional de Análise de Dados do Google** 
-- **Scrum Foundation Professional Certification - SFPC™** 
-
 
 
 <div style="display: inline_block"><br>
