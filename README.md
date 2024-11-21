@@ -1,7 +1,7 @@
 
-![Bem-vindo ao meu GitHub!](https://via.placeholder.com/1200x300.png?text=Bem-vindo+ao+meu+GitHub!)
 
-# Kathleen Ferreira  
+![Kathleen Ferreira](https://github.com/user-attachments/assets/2e3b3621-0e75-4922-86cb-0ce916d73940)
+
 
  Aqui você encontra um pouquinho do meu universo como desenvolvedora de software, onde cada projeto reflete minha paixão por aprender, criar e resolver problemas. 🚀  
 
