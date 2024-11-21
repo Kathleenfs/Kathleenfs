@@ -10,7 +10,8 @@
 <table>
 <tr >
 <td width="250px">
-  <img src="https://via.placeholder.com/250x250.png?text=Minha+Imagem" alt="Minha imagem" style="border-radius: 0%;">  
+  
+   ![gato](https://github.com/user-attachments/assets/80b0b30c-eafb-4621-85f7-096f6f5bc45c)
   
 ### 🛠 *Sobre mim*  
 - 🎓 *Engenheira de Software*  
