@@ -11,7 +11,10 @@
    <td width="33%" valign="top">
 
 
- ![gato](https://github.com/user-attachments/assets/80b0b30c-eafb-4621-85f7-096f6f5bc45c)
+![image](https://github.com/user-attachments/assets/06fdd186-1d99-4ca5-b932-f9bcb3c823ba)
+
+
+
      
   <h2>🛠 Sobre mim</h2>
       <ul>
@@ -64,8 +67,7 @@
 ---
 
 ### 🌟 *Curiosidades sobre mim*  
- - 🐾 *Tenho sete gatos* e sou oficialmente uma "cat developer". Eles são meus gerentes de QA – testam minha paciência e minhas habilidades de multitarefa todo dia. 
-  
+ - 🐾 *Tenho sete gatos* e sou oficialmente uma "cat developer". Eles são meus gerentes de QA – testam minha paciência e minhas habilidades de multitarefa todo dia.
 - 💻 Minha primeira linguagem de programação foi *Java*, e foi amor à primeira vista.  ☕
 
 
