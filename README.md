@@ -25,7 +25,7 @@
       <h2>📚 Conhecimentos Técnicos:</h2>
       <ul>
         <li><b>Backend:</b> Java (Spring Boot), JavaScript, Python</li>
-        <li><b>Frontend:</b> React, HTML, CSS</li>
+        <li><b>Frontend:</b> Angular, HTML, CSS</li>
         <li><b>Banco de Dados:</b> PostgreSQL, MySQL</li>
         <li><b>Ferramentas:</b> Git, Swagger, JPA/Hibernate</li>
         <li><b>Metodologias:</b> Scrum, Kanban</li>
