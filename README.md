@@ -1,79 +1,86 @@
 # Kathleen Ferreira
-**Software Engineer | Java & Angular | Product-Oriented Development**
 
-Engenheira de Software com foco em desenvolvimento de aplicações robustas, escaláveis e orientadas a produto. Atuo principalmente no backend com Java e Spring Boot, integrando APIs, bancos de dados relacionais e aplicações frontend em Angular, sempre com atenção à arquitetura, qualidade de código e boas práticas de engenharia.
+### Software Engineer | Java • Spring Boot • Angular
 
-Tenho interesse em construir soluções que resolvam problemas reais, com visão sistêmica, clareza técnica e responsabilidade sobre o ciclo completo do produto — da concepção à entrega.
+Software Engineer com experiência no desenvolvimento e evolução de aplicações web em ambientes corporativos e governamentais, atuando principalmente com **Java, Spring Boot e Angular**.
 
----
+Experiência no desenvolvimento e manutenção de **APIs REST**, implementação de funcionalidades, integração entre sistemas, persistência de dados, investigação e resolução de bugs e manutenção evolutiva de aplicações.
 
-## 🎯 Áreas de Atuação
-- Desenvolvimento Backend com **Java (Spring Boot)**
-- Criação e consumo de **APIs REST**
-- Integração com **bancos de dados relacionais**
-- Desenvolvimento Frontend com **Angular**
-- Estruturação de projetos com foco em **produto, escalabilidade e manutenção**
+Meu trabalho é orientado à construção de soluções bem estruturadas e de fácil manutenção, aplicando princípios como **POO, SOLID, Clean Code e separação de responsabilidades**.
+
+Atualmente, utilizo este GitHub para desenvolver e documentar projetos voltados a **arquitetura de software, APIs, segurança, testes automatizados, containers e sistemas distribuídos**.
 
 ---
 
-## 🧠 Competências Técnicas
+## Tech Stack
 
-### Backend
-- Java
-- Spring Boot
-- JPA / Hibernate
-- APIs REST
-- Swagger / OpenAPI
+**Backend**
+Java 17/21 • Spring Boot • Spring MVC • Spring Data JPA • JPA/Hibernate • Maven • REST APIs
 
-### Frontend
-- Angular
-- JavaScript
-- HTML5
-- CSS3
+**Frontend**
+Angular • TypeScript • JavaScript • HTML5 • CSS3
 
-### Banco de Dados
-- PostgreSQL
-- MySQL
+**Databases**
+PostgreSQL • Oracle • SQL • PL/SQL
 
-### DevOps & Ferramentas
-- Git / GitHub
-- Maven
-- Jenkins
-- Jira
-- Postman
-- Insomnia
+**Engineering**
+POO • SOLID • Clean Code • Design Patterns • Layered Architecture • REST API Design
 
-### Metodologias
-- Scrum
-- Kanban
+**Testing**
+JUnit • Mockito
+
+**DevOps & Tools**
+Git • GitHub • Docker • Kubernetes • Azure DevOps • Jira • Postman • Swagger/OpenAPI
 
 ---
 
-## 🏗️ Visão de Engenharia
-- Código limpo e organizado
-- Separação de responsabilidades
-- Arquitetura orientada a domínio
-- Clareza na comunicação técnica
-- Evolução contínua da base de código
-- Pensamento orientado a produto e negócio
+## Featured Projects
+
+### Product Management API
+
+REST API desenvolvida com **Java 21 e Spring Boot**, estruturada para representar uma aplicação backend próxima de um cenário de produção.
+
+Principais conceitos aplicados:
+
+* Spring Boot e Spring Data JPA
+* PostgreSQL
+* Flyway
+* Bean Validation
+* Exception Handling
+* Spring Security e JWT
+* Swagger / OpenAPI
+* JUnit e Mockito
+* Docker
+* Arquitetura em camadas
 
 ---
 
-## 📂 O que você encontrará neste GitHub
-- Projetos backend desenvolvidos em **Java Spring Boot**
-- Aplicações com **arquitetura bem definida**
-- Integrações frontend utilizando **Angular**
-- Estudos práticos voltados à construção de soluções reais
-- Repositórios organizados com documentação clara
+### Hexagonal Architecture API
+
+API desenvolvida para aplicação prática de **Ports & Adapters (Arquitetura Hexagonal)**, com foco em desacoplamento entre regras de negócio e tecnologias externas.
+
+Principais conceitos:
+
+* Java 21
+* Spring Boot
+* Ports & Adapters
+* Use Cases
+* Dependency Inversion
+* Domain Isolation
+* Testabilidade
+* PostgreSQL
+* Docker
 
 ---
 
-## 📜 Certificações
-- **Professional Scrum Master I (PSM I)**
-- Oracle Cloud Infrastructure – AI Foundations Associate
-- IBM Certified Technical Advocate – Cloud v4
-- IBM watsonx Essentials
-- watsonx.ai Sales Foundation
+## Certifications
+
+* **Professional Scrum Master™ I (PSM I)** — Scrum.org
+* **Oracle Cloud Infrastructure AI Foundations Associate**
+* **IBM Certified Technical Advocate – Cloud v4**
+* **IBM watsonx Essentials**
+* **watsonx.ai Sales Foundation**
+
 - Google Data Analytics Professional Certificate
 - Scrum Foundation Professional Certification (SFPC™)
 
